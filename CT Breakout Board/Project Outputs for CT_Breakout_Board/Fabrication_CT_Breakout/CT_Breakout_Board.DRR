@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CT_Breakout_Board.PcbDoc   10/30/2020  7:21:43 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CT_Breakout_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T2      33mil (0.85mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T3      43mil (1.1mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T4      55mil (1.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      98mil (2.5mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              36
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,4 @@
+Layer stackup: Top-bottom
+Soldermask: Red both sides
+Material: FR4
+Copper: 1OZ
