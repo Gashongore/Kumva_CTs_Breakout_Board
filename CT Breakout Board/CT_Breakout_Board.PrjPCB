@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for CT_Breakout_Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -89,142 +89,82 @@ GenerateClassCluster=0
 DocumentUniqueId=WNEQCCNS
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board - Copy.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.REP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for CT_Breakout_Board\CT_Breakout_Board.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for CT_Breakout_Board\Design Rule Check - CT_Breakout_Board - Copy.html
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for CT_Breakout_Board\Design Rule Check - CT_Breakout_Board.html
 DItemRevisionGUID=
 
@@ -275,7 +215,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for CT_Breakout_Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -477,7 +417,9 @@ OutputName9=Schematic Prints
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.53|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=

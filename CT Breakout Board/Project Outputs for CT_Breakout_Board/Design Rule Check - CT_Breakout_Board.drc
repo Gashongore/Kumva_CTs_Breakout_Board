@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\A Second Chance\3. Be\Job and Mula Hunting\Kumva IoT\Pilot Phase- Implementation\CT Breakout Board\CT_Breakout_Board.PcbDoc
-Date     : 10/30/2020
-Time     : 4:05:20 AM
+PCB File : D:\Grind\Gigs\KumvaIoT\Kumva_CTs_Breakout_Board\CT Breakout Board\CT_Breakout_Board.PcbDoc
+Date     : 11/2/2020
+Time     : 12:35:50 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=60mil) (Preferred=25mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
