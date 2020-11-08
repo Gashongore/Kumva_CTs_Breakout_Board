@@ -1,0 +1,10 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Cap Semi","Capacitor (Semiconductor SIM Model)","C1, C2, C3, C4, C5, C6, C7","1608[0603]","Cap Semi","7"
+"BZT52C3V3T-7","Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523","D1, D2, D3, D4, D5, D6","SODFL1608X65N","BZT52C3V3T-7","6"
+"CON22","2 Pin Terminal Block 5mm Pitch","J1, J2, J3, J5, J6, J7","HANDSON_KF301-2P","KF301-2P","6"
+"BM06B-SRSS-TB(LF)(SN)","Connector Header Surface Mount 6 position 0.039 (1.00mm)","J4","JST_BM06B-SRSS-TB(LF)(SN)","BM06B-SRSS-TB(LF)(SN)","1"
+"Power","Header, 2-Pin","P1","HDR1X2","Header 2","1"
+"DNC","Resistor","R1, R2, R3, R17, R21, R26","AXIAL-0.4","Res2","6"
+"22","Resistor","R4, R5, R6, R18, R22, R27","AXIAL-0.4","Res2","6"
+"Res3","Resistor","R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R19, R20, R23, R24, R25, R28, R29, R30","J1-0603","Res3","18"

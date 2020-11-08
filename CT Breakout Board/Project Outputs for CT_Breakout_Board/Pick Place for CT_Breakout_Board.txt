@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+D:\Grind\Gigs\KumvaIoT\Kumva_CTs_Breakout_Board\CT Breakout Board\Project Outputs for CT_Breakout_Board\Pick Place for CT_Breakout_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/11/20
+Time:       17:43
+Revision:   78dab85a56b2a10e8fe1004bebd5c1df5bb93005
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer       Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                
+R30        Res3                  BottomLayer J1-0603                   2250.000      2460.000      360      Resistor                                                   
+R29        Res3                  BottomLayer J1-0603                   1931.575      2320.000      180      Resistor                                                   
+R28        Res3                  BottomLayer J1-0603                   1930.000      2490.000      360      Resistor                                                   
+R27        22                    TopLayer    AXIAL-0.4                 1945.000      2460.000      360      Resistor                                                   
+R26        DNC                   TopLayer    AXIAL-0.4                 1945.000      2316.575      360      Resistor                                                   
+R25        Res3                  BottomLayer J1-0603                   2245.000      2950.000      360      Resistor                                                   
+R24        Res3                  BottomLayer J1-0603                   1925.000      2785.000      180      Resistor                                                   
+R23        Res3                  BottomLayer J1-0603                   1925.000      2925.000      360      Resistor                                                   
+R22        22                    TopLayer    AXIAL-0.4                 1935.000      2950.000      360      Resistor                                                   
+R21        DNC                   TopLayer    AXIAL-0.4                 1935.000      2780.000      360      Resistor                                                   
+P1         Power                 BottomLayer HDR1X2                    2575.000      3291.575      90       "Header, 2-Pin"                                            
+J7         CON22                 TopLayer    HANDSON_KF301-2P          1500.000      2415.000      270      "2 Pin Terminal Block 5mm Pitch"                           
+J6         CON22                 TopLayer    HANDSON_KF301-2P          1500.000      2875.000      270      "2 Pin Terminal Block 5mm Pitch"                           
+J5         CON22                 TopLayer    HANDSON_KF301-2P          1500.000      3795.000      270      "2 Pin Terminal Block 5mm Pitch"                           
+D6         BZT52C3V3T-7          BottomLayer SODFL1608X65N             2261.575      2340.000      270      "Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523"        
+D5         BZT52C3V3T-7          BottomLayer SODFL1608X65N             2251.575      2815.000      270      "Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523"        
+C7         "Cap Semi"            BottomLayer 1608[0603]                2660.000      3271.693      270      "Capacitor (Semiconductor SIM Model)"                      
+C6         "Cap Semi"            BottomLayer 1608[0603]                1930.000      2405.000      180      "Capacitor (Semiconductor SIM Model)"                      
+C5         "Cap Semi"            BottomLayer 1608[0603]                1925.000      2860.000      180      "Capacitor (Semiconductor SIM Model)"                      
+R20        Res3                  BottomLayer J1-0603                   1927.953      3320.000      180      Resistor                                                   
+R19        Res3                  BottomLayer J1-0603                   1927.559      3385.000      360      Resistor                                                   
+R18        22                    TopLayer    AXIAL-0.4                 1934.528      3365.000      360      Resistor                                                   
+R17        DNC                   TopLayer    AXIAL-0.4                 1933.441      3243.425      360      Resistor                                                   
+R16        Res3                  BottomLayer J1-0603                   2240.472      3364.134      360      Resistor                                                   
+R13        Res3                  BottomLayer J1-0603                   1945.000      4291.575      360      Resistor                                                   
+R12        Res3                  BottomLayer J1-0603                   1945.472      4229.095      180      Resistor                                                   
+R11        Res3                  BottomLayer J1-0603                   1947.047      3770.000      180      Resistor                                                   
+R10        Res3                  BottomLayer J1-0603                   1947.087      3837.992      360      Resistor                                                   
+R9         Res3                  BottomLayer J1-0603                   2274.528      3800.000      360      Resistor                                                   
+R8         Res3                  BottomLayer J1-0603                   2255.000      4255.000      360      Resistor                                                   
+R6         22                    TopLayer    AXIAL-0.4                 1968.441      3695.000      360      Resistor                                                   
+R5         22                    TopLayer    AXIAL-0.4                 1940.000      4255.000      360      Resistor                                                   
+R4         22                    TopLayer    AXIAL-0.4                 1930.000      4607.441      360      Resistor                                                   
+R3         DNC                   TopLayer    AXIAL-0.4                 1967.969      3800.000      360      Resistor                                                   
+R2         DNC                   TopLayer    AXIAL-0.4                 1941.575      4148.701      360      Resistor                                                   
+R1         DNC                   TopLayer    AXIAL-0.4                 1930.000      4730.000      360      Resistor                                                   
+J3         CON22                 TopLayer    HANDSON_KF301-2P          1500.000      3345.000      270      "2 Pin Terminal Block 5mm Pitch"                           
+J1         CON22                 TopLayer    HANDSON_KF301-2P          1500.000      4705.000      270      "2 Pin Terminal Block 5mm Pitch"                           
+D4         BZT52C3V3T-7          BottomLayer SODFL1608X65N             2230.000      3245.000      270      "Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523"        
+D3         BZT52C3V3T-7          BottomLayer SODFL1608X65N             2250.000      3694.134      270      "Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523"        
+D2         BZT52C3V3T-7          BottomLayer SODFL1608X65N             2116.575      4060.000      180      "Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523"        
+C4         "Cap Semi"            BottomLayer 1608[0603]                1927.086      3241.969      180      "Capacitor (Semiconductor SIM Model)"                      
+C2         "Cap Semi"            BottomLayer 1608[0603]                1943.701      4151.575      180      "Capacitor (Semiconductor SIM Model)"                      
+C1         "Cap Semi"            BottomLayer 1608[0603]                1942.974      3696.575      180      "Capacitor (Semiconductor SIM Model)"                      
+R15        Res3                  BottomLayer J1-0603                   1935.000      4746.811      360      Resistor                                                   
+R14        Res3                  BottomLayer J1-0603                   1938.425      4606.339      180      Resistor                                                   
+R7         Res3                  BottomLayer J1-0603                   2235.000      4730.000      360      Resistor                                                   
+J4         BM06B-SRSS-TB(LF)(SN) BottomLayer JST_BM06B-SRSS-TB(LF)(SN) 2575.177      3701.575      270      "Connector Header Surface Mount 6 position 0.039 (1.00mm)" 
+J2         CON22                 TopLayer    HANDSON_KF301-2P          1500.000      4250.000      270      "2 Pin Terminal Block 5mm Pitch"                           
+D1         BZT52C3V3T-7          BottomLayer SODFL1608X65N             2224.134      4620.945      270      "Zener Diode 3.3V 300mW AÅ}6% Surface Mount SOD-523"        
+C3         "Cap Semi"            BottomLayer 1608[0603]                1935.000      4673.189      180      "Capacitor (Semiconductor SIM Model)"                      
